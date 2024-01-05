@@ -2,3 +2,5 @@
 *.css linguist-vendored=false
 
 *.java linguist-detectable=true
+
+.metadata/* .plugins/com.genuitec.eclipse.ui.common.platform/
